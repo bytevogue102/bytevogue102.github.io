@@ -1,5 +1,5 @@
 {
 "appopen_key":"ca-app-pub-9600383135581620/9332747927",
-"main_go_key": 100,
-"admob_baner_ki":"sDgK6y9L0HLtPZZNaaJ3cq09Y8ZtCPN8rxksaf4SXto="
+"main_go_key": 1001,
+"admob_baner_ki":"123"
 }
