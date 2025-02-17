@@ -1,5 +1,5 @@
 {
 "main_go_key": 100,
-"admob_baner_ki":"AIcfAdSKjuJUBzuosVhsf9NjITdZaUOqyiNByVAuTsY=",
+"admob_baner_ki":"123456",
 "num_folder": "aHR0cHM6Ly9mbHVycnkuaW5mby9l"
 }
